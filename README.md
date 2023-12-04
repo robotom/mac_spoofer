@@ -1,6 +1,8 @@
 # mac_spoofer
 
-![GUI Demo](other/gui_demo.gif)
+<div style="text-align:center">
+    <img src="other/gui_demo.gif" alt="GUI Demo" width="400">
+</div>
 
 ### Why spoof your MAC? 
 
